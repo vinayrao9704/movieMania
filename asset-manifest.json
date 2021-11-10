@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movieMania/static/css/main.3c396acb.chunk.css",
+    "main.js": "/movieMania/static/js/main.24ba7f41.chunk.js",
+    "main.js.map": "/movieMania/static/js/main.24ba7f41.chunk.js.map",
+    "runtime-main.js": "/movieMania/static/js/runtime-main.51c79212.js",
+    "runtime-main.js.map": "/movieMania/static/js/runtime-main.51c79212.js.map",
+    "static/js/2.e83f030f.chunk.js": "/movieMania/static/js/2.e83f030f.chunk.js",
+    "static/js/2.e83f030f.chunk.js.map": "/movieMania/static/js/2.e83f030f.chunk.js.map",
+    "static/js/3.fb4b6b34.chunk.js": "/movieMania/static/js/3.fb4b6b34.chunk.js",
+    "static/js/3.fb4b6b34.chunk.js.map": "/movieMania/static/js/3.fb4b6b34.chunk.js.map",
+    "index.html": "/movieMania/index.html",
+    "static/css/main.3c396acb.chunk.css.map": "/movieMania/static/css/main.3c396acb.chunk.css.map",
+    "static/js/2.e83f030f.chunk.js.LICENSE.txt": "/movieMania/static/js/2.e83f030f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c79212.js",
+    "static/js/2.e83f030f.chunk.js",
+    "static/css/main.3c396acb.chunk.css",
+    "static/js/main.24ba7f41.chunk.js"
+  ]
+}
